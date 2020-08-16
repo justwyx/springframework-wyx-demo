@@ -12,5 +12,6 @@
     <modules>
         <module>spring-v1-demo</module>
         <module>spring-v2-demo</module>
+        <module>spring-v3-demo</module>
     </modules>
 </project>
